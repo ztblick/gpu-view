@@ -33,7 +33,7 @@ Updates every second. Press `q` then `Enter` to quit.
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/gpu-view.git
+   git clone https://github.com/ztblick/gpu-view.git
    cd gpu-view
    ```
 
@@ -67,7 +67,7 @@ Updates every second. Press `q` then `Enter` to quit.
 Alternatively, you can install directly with cargo:
 
 ```bash
-git clone https://github.com/yourusername/gpu-view.git
+git clone https://github.com/ztblick/gpu-view.git
 cd gpu-view
 cargo install --path .
 ```
